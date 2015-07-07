@@ -1,23 +1,25 @@
 ---
 layout: post
-title: ‚±‚ÌƒuƒƒO‚É‚Â‚¢‚Ä
+title: ã“ã®ãƒ–ãƒ­ã‚°ã«ã¤ã„ã¦
 ---
 
-## ‚±‚ÌƒuƒƒO‚É‚Â‚¢‚Ä
+## ã©ã‚“ãªã“ã¨ã‚’æ›¸ã„ã¦ã„ãã‹
 
-ƒAƒvƒŠŠJ”­‚Ìtips‚ªƒTƒ“ƒvƒ‹ƒR[ƒh‚Æ‚Æ‚à‚ÉW‚Ü‚é‚Æ‚¢‚¢‚È‚ÆŽv‚Á‚Ä‚¢‚Ü‚·B
+ã‚¢ãƒ—ãƒªé–‹ç™ºã®tipsã‚’ã‚µãƒ³ãƒ—ãƒ«ã‚³ãƒ¼ãƒ‰ã¨å…±ã«ã¾ã¨ã‚ã¦ã„ã‘ãŸã‚‰ã„ã„ãªã¨æ€ã†
 
-## ƒuƒƒO‚Ìi‚ß•û
+## ãƒ–ãƒ­ã‚°ã®é€²ã‚æ–¹
 
-1. issues‚Åƒlƒ^‚ð‘‚­
-2. ƒAƒTƒCƒ“‚³‚ê‚½issue‚ÌƒuƒƒO‚ð‘‚­
-3. commit‚µ‚Äpush‚·‚ê‚ÎOK
+issueé§†å‹•ã‚’ã—ã¦ã¿ãŸã„
 
-## ƒuƒƒO‹LŽ–‚Ì‘‚«•û
+1. issuesã‚’ä½œã‚‹
+2. è¨˜äº‹ã‚’æ›¸ã
+3. ãƒ—ãƒ«ãƒªã‚¯ã‚¨ã‚¹ãƒˆã‚’ä½œã‚‹
 
-- gitŽg‚Á‚Ä‚¢‚él‚Ígit clone‚·‚é‚Æ‚¢‚¢‚ÆŽv‚¤
-- mdƒtƒ@ƒCƒ‹‚Ígithub‚©‚ç’¼Ú•ÒW‚à‚Å‚«‚é‚Ì‚Å‚»‚ê‚Å‚â‚é‚Ì‚à‚ ‚è
+## ãƒ–ãƒ­ã‚°ã‚’æ›¸ãæº–å‚™
 
-## Markdown‚É‚Â‚¢‚Ä
+- gitã‚’ä½¿ã£ã¦ãƒ­ãƒ¼ã‚«ãƒ«ã§é–‹ç™ºã™ã‚‹ã¨ãƒ—ãƒ¬ãƒ“ãƒ¥ãƒ¼ã¨ã‹æ¥½
+- mdãƒ•ã‚¡ã‚¤ãƒ«è‡ªä½“ã¯githubã‹ã‚‰ç›´æŽ¥ç·¨é›†ã‚‚ã§ãã‚‹
 
-[‚±‚¿‚ç‚ð‚²——‚­‚¾‚³‚¢](https://help.github.com/articles/markdown-basics/)
+## Markdownã«ã¤ã„ã¦
+
+[githubã®ãƒ˜ãƒ«ãƒ—](https://help.github.com/articles/markdown-basics/)
