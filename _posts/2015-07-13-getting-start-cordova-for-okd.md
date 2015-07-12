@@ -112,11 +112,13 @@ iOS project created with cordova-ios@3.8.0
 Installing "cordova-plugin-whitelist" for ios
 ```
 
-3. 実行してみる
+## 実行してみる
 * android
+
  ```
  $ cordova emulate android
  ```
+
 * ios
 ```
 $ cordova emulate ios
