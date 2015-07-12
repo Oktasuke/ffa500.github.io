@@ -13,8 +13,8 @@ Cordovaを理解しつつ開発環境を整える
 * About Apache Cordova™から要点を抜き出すと
  * web technologies are used, and they are hosted in the app itself locally
  * Cordova provides a set of uniform JavaScript libraries that can be invoked, with device-specific native backing code for those JavaScript libraries
-* 歴史的には。。。
- * AdobeのPhoneGapがOSS化してできた感じ。
+* 歴史的には
+ * AdobeのPhoneGapをOSS化したとか
 
 ## Cordovaの準備
 1. AndroidStudioをインストール
