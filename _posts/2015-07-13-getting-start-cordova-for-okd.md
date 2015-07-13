@@ -1,6 +1,6 @@
 ---
 layout: post
-title: okawaさん記事を元にCordovaを準備する
+title: Cordovaを準備する(iOSでの実行追記)
 ---
 
 ## ゴール
@@ -105,8 +105,8 @@ Creating Cordova project for the Android platform:
 Copying template files...
   ```
   * ios
-  ```
-  $ cordova platform add ios
+```
+$ cordova platform add ios
 Adding ios project...
 iOS project created with cordova-ios@3.8.0
 Installing "cordova-plugin-whitelist" for ios
@@ -116,7 +116,7 @@ Installing "cordova-plugin-whitelist" for ios
 * android
 
  ```
- $ cordova emulate android
+$ cordova emulate android
  ```
 
 * ios
