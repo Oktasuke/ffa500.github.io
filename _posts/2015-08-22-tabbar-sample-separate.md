@@ -8,7 +8,7 @@ tabbarのテンプレートを別ファイルに分けてチーム開発しや�
 
 ## テンプレート
 * サンプルコードは以下にあります。
- * [tabbar-template-separate(GitHub)](https://github.com/ffa500/tabbar-template-separate)
+    * [tabbar-template-separate(GitHub)](https://github.com/ffa500/tabbar-template-separate)
 
 ## タブバーの宣言ポイント
 * index.htmlにtabbarを宣言する際に、ons-tabの属性`page`を利用してViewのURLを記述する。
@@ -42,6 +42,7 @@ tabbarのテンプレートを別ファイルに分けてチーム開発しや�
         </ons-tab>
     </ons-tabbar>
 ```
+
 ## タブがアクティブになった際のViewの宣言
 * ons-tabの属性`page`に指定したファイル名と同じものをwww/配下に配置する。
 * `<ons-template>`を使う必要はない。`<ons-template>`は同一ファイルにまとめたい場合にidにファイル名を記載することでViewに仮想URLを付与することができるもの。
